@@ -13,3 +13,5 @@
   第一步 :  先在本地执行 add, commit 
   第二步 :  然后去执行 git push origin master(master是主分支)
   第三步 :  git pull origin master(master是主分支) 可以拉取github上的修改
+
+在idea上测试 GIT Bash
